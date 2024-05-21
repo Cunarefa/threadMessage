@@ -1,0 +1,46 @@
+# virtualenv
+venv/
+.venv/
+ENV/
+env/
+
+/.env
+__pycache__/
+*.pyc
+/info
+*.rdb
+
+# pyenv
+.python-version
+
+# Pycharm
+.idea/
+
+# VS Code
+.vscode
+
+# Django stuff:
+*.log
+
+# Mac spcific system files
+.DS_Store
+.DS_Store?
+.directory
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
